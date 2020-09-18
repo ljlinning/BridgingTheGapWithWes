@@ -21,7 +21,8 @@ header, h2 {
 
 .jumbotron {
     margin: 0;
-    padding: 30px;
+    padding: 10px;
     background-image: linear-gradient(to right, #5637dd, #3046c5,#601068);
     color: white;
 }
+
