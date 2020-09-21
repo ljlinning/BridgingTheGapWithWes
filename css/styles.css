@@ -1,5 +1,6 @@
 body {
     font-family: "Open Sans", sans-serif;
+    background-color: rgb(54, 128, 212)
  }
 
 h1, h2, h3 {
@@ -24,5 +25,19 @@ header, h2 {
     padding: 10px;
     background-image: linear-gradient(to right, #5637dd, #3046c5,#601068);
     color: white;
+    
 }
 
+#mainWindow {
+    font-style: sans-serif, Block;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border: solid #5637DD;
+}
